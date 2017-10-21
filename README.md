@@ -1,6 +1,7 @@
 # TempratureConverterApp
 
 This is a Simple Basic Android Temprature Converter App, Which Calculate the temprature in .C and .F 
+Just Extract The File and Open With Android Studio.
 
 To use this App you have to download the clone
 And open with android studion V.2.0 and Above .
